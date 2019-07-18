@@ -86,9 +86,9 @@
 				<configuration>
 					<goals>install</goals>
 					<autoVersionSubmodules>true</autoVersionSubmodules>
-					<checkModificationExcludes>
+					<!--<checkModificationExcludes>
 						<checkModificationExclude>pom.xml</checkModificationExclude>
-					</checkModificationExcludes>
+					</checkModificationExcludes>-->
 				</configuration>
 			</plugin>
 		</plugins>
